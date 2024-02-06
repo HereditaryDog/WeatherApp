@@ -1,0 +1,5 @@
+([('WeatherApp',
+   '/Users/yjy/Desktop/Python '
+   'V0.1/PythonProject_V2/PythonProject实战/Python实战_V2.2_天气查询系统（联网实时版）+ '
+   '(带GUI界面)/dist/WeatherApp',
+   'EXECUTABLE')],)
